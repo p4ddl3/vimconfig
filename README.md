@@ -1,4 +1,1 @@
-vimconfig
-=========
-
-Fichier de configuration de Vim
+Fichier de configuration de Vim synchronisé
